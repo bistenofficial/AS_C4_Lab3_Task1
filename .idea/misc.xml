@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OneDrive/Study/4_course/MDK_01.03_Development_of_mobile_applications__Irina_Aleksandrovna/Laboratory_work/Laboratory_work_3/Task1/app/src/main/res/drawable-v24/bckg.xml" value="0.34427083333333336" />
+        <entry key="..\:/OneDrive/Study/4_course/MDK_01.03_Development_of_mobile_applications__Irina_Aleksandrovna/Laboratory_work/Laboratory_work_3/Task1/app/src/main/res/drawable-v24/btn_backg.xml" value="0.5661458333333333" />
+        <entry key="..\:/OneDrive/Study/4_course/MDK_01.03_Development_of_mobile_applications__Irina_Aleksandrovna/Laboratory_work/Laboratory_work_3/Task1/app/src/main/res/drawable-v24/btn_reg.xml" value="0.34427083333333336" />
+        <entry key="..\:/OneDrive/Study/4_course/MDK_01.03_Development_of_mobile_applications__Irina_Aleksandrovna/Laboratory_work/Laboratory_work_3/Task1/app/src/main/res/layout/activity_main.xml" value="0.26063829787234044" />
+        <entry key="..\:/OneDrive/Study/4_course/MDK_01.03_Development_of_mobile_applications__Irina_Aleksandrovna/Laboratory_work/Laboratory_work_3/Task1/app/src/main/res/layout/activity_menu.xml" value="0.262037037037037" />
+        <entry key="..\:/OneDrive/Study/4_course/MDK_01.03_Development_of_mobile_applications__Irina_Aleksandrovna/Laboratory_work/Laboratory_work_3/Task1/app/src/main/res/layout/activity_splash.xml" value="0.1595744680851064" />
+        <entry key="..\:/OneDrive/Study/4_course/MDK_01.03_Development_of_mobile_applications__Irina_Aleksandrovna/Laboratory_work/Laboratory_work_3/Task1/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.328125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
