@@ -84,6 +84,7 @@
                 android:layout_marginBottom="32dp"
                 android:background="@drawable/btn_reg"
                 android:text="Exit"
+                android:onClick="onClickExit"
                 android:textColor="#1565c0"
                 app:layout_constraintBottom_toTopOf="@+id/btnNav"
                 app:layout_constraintEnd_toEndOf="parent"
